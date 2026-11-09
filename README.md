@@ -1,54 +1,23 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# Hi, I'm Roberto May
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Roberto May</h1></summary>
-  </ul>
-</div>
+Full-stack developer and Computer Systems Engineer from Mexico. I build web apps end to end with Angular, React, Vue, NestJS, Laravel and Django, from the database schema to the screen people use.
 
-## 👨🏻‍💻 About Me
+**[Portfolio](https://robertomay.github.io)** · **[Résumé](https://robertomay.github.io/assets/cv/cv-en.pdf)** · **[LinkedIn](https://www.linkedin.com/in/roberto-may/)** · **[Email](mailto:robertoc.may@gmail.com)**
 
-🔭 &nbsp;I’m a Computer Systems Engineering student with a passion for fullstack development.\
-🛠️ &nbsp;I’ve collaborated on solutions with academic institutions, community-driven initiatives, and a tech company.\
-🛠️ &nbsp;I enjoy building functional and scalable web applications, always looking to improve and learn more.\
-💼 &nbsp;Open to internships, collaborations, and real-world challenges that help me grow as a developer.\
-💡 &nbsp;I love exploring new technologies, solving problems, and turning ideas into code.\
-💬 &nbsp;Let’s connect! I’m always up for a good tech conversation or a new project to join.
+## What I build
 
-<div align="center"> </div>
+- Angular front end for a sports analytics platform used by professional clubs: dashboards, player and injury analytics, and reusable components.
+- Full-stack client apps for an agency: a home-delivery app (Vue, Laravel), an internal logistics system (React, Django) and a real-estate site (React, Laravel).
+- Restaurant software as a freelancer: a multi-branch point of sale (React, Node.js, Express, MongoDB) and a digital menu with QR coupons (React).
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Skills 
+## Tech
 
-<!-- Frontend -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,angular,materialui&theme=light&perline=8" />
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,vue,ts,js,html,css,tailwind,materialui&perline=9" alt="Angular, React, Vue, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Material UI" />
 </p>
-
-<!-- Backend -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,flask,laravel,python,java&theme=light&perline=8" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,laravel,django,flask,python,php,wordpress&perline=9" alt="NestJS, Node.js, Express, Laravel, Django, Flask, Python, PHP, WordPress" />
 </p>
-
-<!-- Bases de Datos -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=light&perline=8" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,gcp,docker,git,github,postman&perline=9" alt="MongoDB, MySQL, PostgreSQL, Firebase, Google Cloud, Docker, Git, GitHub, Postman" />
 </p>
-
-<!-- Herramientas -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman&theme=light&perline=8" />
-</p>
-
-## 📊 My Github Stats:
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobertoMay&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoMay&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-
-
-
-
